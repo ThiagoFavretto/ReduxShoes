@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Kit 2 Pares Tênis Masculino Adaption Easy",
+      "price": 99.9,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71EYTmJffVL._SY500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "CALÇADO DE TÊNIS DE MESA TTS 500 ARTENGO",
+      "price": 199.99,
+      "image": "https://decathlonpro.vteximg.com.br/arquivos/ids/2290534-500-500/calcado-de-tenis-de-mesa-tts-500--br-351.jpg?v=636880808632900000"
+    },
+    {
+      "id": 3,
+      "title": "Kit 2 Pares Tênis Kappa Impact Feminino - Azul e Pink",
+      "price": 99.99,
+      "image": "http://static.netshoes.com.br/produtos/kit-2-pares-tenis-kappa-impact-feminino/70/D24-1967-270/D24-1967-270_zoom1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tênis Asics Gel-Kihai - Masculino",
+      "price": 249.99,
+      "image": "https://imgcentauro-a.akamaihd.net/500x500/93858869/tenis-asics-gel-kihai-masculino-img.jpg"
+    },
+    {
+      "id": 5,
+      "title": "TÊNIS OLD SKOOL",
+      "price": 329.99,
+      "image": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h73/he7/h00/h00/9543618822174/1002001070006U-01-BASEIMAGE-Midres.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Nike Revolution 5 Masculino",
+      "price": 189.99,
+      "image": "http://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg"
+    }
+  ]
+}
